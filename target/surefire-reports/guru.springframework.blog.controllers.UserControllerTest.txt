@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: guru.springframework.blog.controllers.UserControllerTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.967 sec - in guru.springframework.blog.controllers.UserControllerTest
